@@ -1,2 +1,0 @@
-# ReChartsBarExample
-Created with CodeSandbox
